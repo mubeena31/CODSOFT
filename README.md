@@ -2,7 +2,9 @@
 Codsoft Web Development Tasks
 
 Task 1: Create a program that generates a random number and asks the user to guess it. Provide feedback on whether the guess is too high or too low until the user guesses the correct number
+
 Task 2: Develop a calculator program that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. Allow the user to input two numbers and choose an operation to perform.
+
 Task 3: Build a simple console-based Tic-Tac-Toe game that allows two players to play against each other
             Game Board: Create a 3x3 grid as the game board.
             Players: Assign
@@ -16,6 +18,7 @@ Task 3: Build a simple console-based Tic-Tac-Toe game that allows two players to
             Switch Players: Alternate turns between "X" and "O" players.
             Display Result: Show the result of the game (win, draw, or ongoing).
             Play Again: Ask if the players want to play another game
+
 Task 4: Build a simple console-based to-do list manager that allows users to add, view, and delete tasks
             Task Input: Allow users to input tasks they want to add to the list.
             Add Task: Implement a function to add tasks to the list.
